@@ -5,6 +5,7 @@ function HollowPyramid(){
     for(let i= 1 ; i<=n ; i++){
         let row = " "
         
+        //space
         for(let s = 1 ; s <= n-i ;s++ ){
             row = row + " "
         }
