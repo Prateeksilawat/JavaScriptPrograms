@@ -1,7 +1,7 @@
 Daily JavaScript Solutions
 
 Welcome to my Daily JavaScript Solutions repository! This project is a collection of JavaScript programs that I solve on a daily basis. 
-It’s a personal challenge that helps me improve my coding skills and deepend my understanding of JavaScript and various programming concepts.
+It’s a personal challenge that helps me improve my coding skills and deepen my understanding of JavaScript and various programming concepts.
 
 About This Repository
 This repository contains a series of JavaScript code snippets, problems, and challenges I solve each day. 
