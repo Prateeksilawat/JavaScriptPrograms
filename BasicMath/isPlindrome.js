@@ -16,3 +16,5 @@ function isPalindrome(str) {
 const str = "madam";
 const result = isPalindrome(str);
 console.log(result);  // Output: true
+
+
